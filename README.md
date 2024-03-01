@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavraj1804&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavraj1804" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaibhavraj1804" alt="vaibhavraj1804" /></a> </p>
-
 <p <p align="left"> <a href="https://x.com/_vaibhavraj_?t=6LR92S8btwH4tK_cQ6m_UQ&s=09" target="blank"><img src="https://img.shields.io/twitter/follow/_vaibhavraj_"
  alt="_vaibhavraj_" /></a> </p>
 
@@ -36,5 +34,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhavraj1804&show_icons=true&locale=en" alt="vaibhavraj1804" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavraj1804&" alt="vaibhavraj1804" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaibhavraj1804" alt="vaibhavraj1804" /></a> </p>
 
 
